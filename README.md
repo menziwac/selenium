@@ -21,26 +21,21 @@ Download zopfli_github_search.side from github. (click on link and save as)
 
 
 
-open Selenium and import zopfli_github_search.side file
-
-```
-Click Open Project (and navigate to the folder where you saved the zopfli_github_search.side file and select it)
-```
+Click on ![Open Project](https://raw.githubusercontent.com/menziwac/selenium/master/images/OpenProject.JPG) icon, navigate to the directory where you saved the file and import zopfli_github_search.side file
+ 
 
 Run Tests
-Click on the green ![play](https://raw.githubusercontent.com/menziwac/jmetretests/master/images/play.JPG) symbol on Jmeter bar
+Click on the play button ![play](https://raw.githubusercontent.com/menziwac/selenium/master/images/Seleniumplay.JPG) symbol on Selenium bar and run current test.
 
 
 
 
+## View Logs ![Result](https://raw.githubusercontent.com/menziwac/selenium/master/images/Log.JPG) to see results
 
-## Click on ![Result Tree](https://raw.githubusercontent.com/menziwac/jmetretests/master/images/viewresults.JPG) to see results, green means pass and red means something failed 
-Results
-![Results](https://raw.githubusercontent.com/menziwac/jmetretests/master/images/results.JPG)
 
 ## Built With
 
-* [Jmeter](https://jmeter.apache.org/usermanual/get-started.html) - open source load testing software
+* [Selenium](https://www.seleniumhq.org/projects/ide/) - Browser automation
 
 ## Authors
 
