@@ -30,7 +30,8 @@ Click on the play button ![play](https://raw.githubusercontent.com/menziwac/sele
 
 
 
-## View Logs ![Result](https://raw.githubusercontent.com/menziwac/selenium/master/images/Log.JPG) to see results
+## View Logs ! to see results
+[Result](https://raw.githubusercontent.com/menziwac/selenium/master/images/Log.JPG)
 
 
 ## Built With
@@ -41,4 +42,4 @@ Click on the play button ![play](https://raw.githubusercontent.com/menziwac/sele
 
 * **Chuma Menziwa** - *Initial work* - [Chuma](https://github.com/menziwac)
 
-See also the list of [contributors](https://github.com/menziwac/jmetretests/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/menziwac/selenium/contributors) who participated in this project.
