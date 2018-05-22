@@ -31,7 +31,7 @@ Click on the play button ![play](https://raw.githubusercontent.com/menziwac/sele
 
 
 ## View Logs ! to see results
-[Result](https://raw.githubusercontent.com/menziwac/selenium/master/images/Log.JPG)
+![Result](https://raw.githubusercontent.com/menziwac/selenium/master/images/Log.JPG)
 
 
 ## Built With
